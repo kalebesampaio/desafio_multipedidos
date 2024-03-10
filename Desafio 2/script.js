@@ -1,5 +1,4 @@
 const secList = document.querySelector(".section__list");
-console.log("oi");
 
 const users = [
   {
