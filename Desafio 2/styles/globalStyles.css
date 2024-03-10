@@ -1,0 +1,23 @@
+:root {
+  --brand1: #6741d9;
+  --brand2: #4c3299;
+
+  --gray1: #212529;
+  --gray2: #495057;
+  --gray3: #adb5bd;
+  --gray4: #e9ecef;
+  --gray5: #f1f3f5;
+  --gray6: #ffffff;
+  --alert1: #cd2b31;
+  --alert2: #ffbf00;
+
+  --border-default: 2px solid var(--gray4);
+  --radius-default: 0.5rem;
+}
+body {
+  font-family: "Inter", sans-serif;
+  color: var(--gray1);
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 16px;
+}
